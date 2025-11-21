@@ -1,0 +1,15 @@
+.nav_ele{
+  
+  padding: 25px;
+  padding-left: 100px;
+  background-color: burlywood;
+}
+.nav_eles{
+  padding-left:18%;
+  text-decoration: none;
+  color: brown;
+  font-size: x-large;
+}
+#child{
+  font-size: x-large;
+}

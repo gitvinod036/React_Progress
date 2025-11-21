@@ -1,0 +1,11 @@
+.nav_bar{
+    padding:4%;
+    background-color:#eeebec;
+}
+.nav_ele{
+    padding-left: 150px;
+    font-size: larger;
+    background-color: #eeebec;
+    color:black;
+    text-decoration: none;
+}
