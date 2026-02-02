@@ -4,10 +4,10 @@ export function ShowInput() {
     //   const h2ref=useRef("vinod")
     //   const count=useRef(0)
 
-    // //   const inc=()=>{
-    // //     count.current=count.current+1
-    // //      console.log(count.current)
-    // //   }
+    //   const inc=()=>{
+    //     count.current=count.current+1
+    //      console.log(count.current)
+    //   }
     //     const changeText=()=>{
     //         h2ref.current="Bye Vinod"
     //         // console.log(h2ref.current)
@@ -17,16 +17,16 @@ export function ShowInput() {
     //    {console.log("render")}
     //    <h2 >{h2ref.current}</h2>
     //    <button onClick={changeText}>change</button>
-    //     {/* <div>
+    //     <div>
     //         <p> count {count.current}</p>
     //         <button onClick={inc}>inc</button>
-    //     </div> */}
+    //     </div>
     //    </>
 
 
 
 
-    const h2ref = useRef()
+    // const h2ref = useRef()
     // const [name,setName]=useState("")
     const inputtag=useRef()
 
